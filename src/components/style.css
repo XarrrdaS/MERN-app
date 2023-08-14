@@ -1,0 +1,40 @@
+.pizza-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+  
+.pizza-tile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #3e5c85b0;
+  min-width: 7rem;
+  min-height: 5rem;
+  text-align: center;
+}
+
+.link-styling{
+  color: white;
+  text-decoration: none;
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  margin-top: 3rem;
+  text-align: center;
+}
+ul {
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+  background-color: rgb(43, 50, 68);
+}

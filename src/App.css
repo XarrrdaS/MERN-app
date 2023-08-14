@@ -1,0 +1,35 @@
+html{
+  background-color: rgb(35, 38, 46);
+  color: rgb(216, 216, 216);
+}
+*{
+  font-family: 'Century Gothic', sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(43, 50, 68);
+}
+.navbar-element a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+}
+
+.navbar-element a:hover {
+  background-color: rgb(37, 43, 58);
+}
+
+@media screen and (max-width: 380px){
+  .navbar{
+    display: block;
+  }
+}
