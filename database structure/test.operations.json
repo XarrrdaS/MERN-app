@@ -1,0 +1,245 @@
+[{
+  "_id": {
+    "$oid": "64d2a37bbdaa7764aa12b117"
+  },
+  "name": "Pieczenie",
+  "ingredients": [
+    {
+      "$oid": "64d91f49fb275a05fc1ffbaf"
+    },
+    {
+      "$oid": "64d91f5cfb275a05fc1ffbb2"
+    },
+    {
+      "$oid": "64d91f70fb275a05fc1ffbb3"
+    },
+    {
+      "$oid": "64d91f76fb275a05fc1ffbb4"
+    },
+    {
+      "$oid": "64d91fc4fb275a05fc1ffbb7"
+    },
+    {
+      "$oid": "64d932a8fb275a05fc1ffc48"
+    },
+    {
+      "$oid": "64d932b3fb275a05fc1ffc49"
+    }
+  ],
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91dd4fb275a05fc1ffba8"
+    },
+    {
+      "$oid": "64d91e00fb275a05fc1ffba9"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    },
+    {
+      "$oid": "64d91e94fb275a05fc1ffbab"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d9200cfb275a05fc1ffbba"
+  },
+  "name": "Nakłuwanie ciasta widelcem",
+  "ingredients": [
+    {
+      "$oid": "64d932a8fb275a05fc1ffc48"
+    }
+  ],
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91e00fb275a05fc1ffba9"
+    },
+    {
+      "$oid": "64d91e94fb275a05fc1ffbab"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d92034fb275a05fc1ffbbb"
+  },
+  "name": "Nakładanie składników na ciasto",
+  "ingredients": [
+    {
+      "$oid": "64d91f49fb275a05fc1ffbaf"
+    },
+    {
+      "$oid": "64d91f5cfb275a05fc1ffbb2"
+    },
+    {
+      "$oid": "64d91f70fb275a05fc1ffbb3"
+    },
+    {
+      "$oid": "64d91f76fb275a05fc1ffbb4"
+    },
+    {
+      "$oid": "64d91fc4fb275a05fc1ffbb7"
+    },
+    {
+      "$oid": "64d932a8fb275a05fc1ffc48"
+    },
+    {
+      "$oid": "64d932b3fb275a05fc1ffc49"
+    }
+  ],
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91dd4fb275a05fc1ffba8"
+    },
+    {
+      "$oid": "64d91e00fb275a05fc1ffba9"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    },
+    {
+      "$oid": "64d91e94fb275a05fc1ffbab"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d9205efb275a05fc1ffbbc"
+  },
+  "name": "Posmarowanie ciasta sosem pomidorowym",
+  "ingredients": [
+    {
+      "$oid": "64d932b3fb275a05fc1ffc49"
+    }
+  ],
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91dd4fb275a05fc1ffba8"
+    },
+    {
+      "$oid": "64d91e00fb275a05fc1ffba9"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    },
+    {
+      "$oid": "64d91e94fb275a05fc1ffbab"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da0664b952ddc08e0241e5"
+  },
+  "name": "Krojenie",
+  "ingredients": [
+    {
+      "$oid": "64d91f49fb275a05fc1ffbaf"
+    },
+    {
+      "$oid": "64d91f5cfb275a05fc1ffbb2"
+    },
+    {
+      "$oid": "64d91f70fb275a05fc1ffbb3"
+    },
+    {
+      "$oid": "64d91f76fb275a05fc1ffbb4"
+    },
+    {
+      "$oid": "64d932b3fb275a05fc1ffc49"
+    }
+  ],
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91dd4fb275a05fc1ffba8"
+    },
+    {
+      "$oid": "64d91e00fb275a05fc1ffba9"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    },
+    {
+      "$oid": "64d91e94fb275a05fc1ffbab"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da0685b952ddc08e0241e8"
+  },
+  "name": "Smażenie",
+  "ingredients": [
+    {
+      "$oid": "64d91fc4fb275a05fc1ffbb7"
+    }
+  ],
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91dd4fb275a05fc1ffba8"
+    },
+    {
+      "$oid": "64d91e00fb275a05fc1ffba9"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    },
+    {
+      "$oid": "64d91e94fb275a05fc1ffbab"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da06b8b952ddc08e0241f0"
+  },
+  "name": "Tarcie",
+  "ingredients": [
+    {
+      "$oid": "64d932a8fb275a05fc1ffc48"
+    }
+  ],
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91dd4fb275a05fc1ffba8"
+    },
+    {
+      "$oid": "64d91e00fb275a05fc1ffba9"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    },
+    {
+      "$oid": "64d91e94fb275a05fc1ffbab"
+    }
+  ],
+  "__v": 0
+}]

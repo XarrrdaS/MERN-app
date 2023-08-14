@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "64d384671eedc2a522ffccba"
+  },
+  "name": "Foccacia",
+  "ingredients": [
+    {
+      "$oid": "64d2a367bdaa7764aa12b110"
+    },
+    {
+      "$oid": "64d67a68fc219cf0c5650d84"
+    },
+    {
+      "$oid": "64d91f70fb275a05fc1ffbb3"
+    },
+    {
+      "$oid": "64d91f76fb275a05fc1ffbb4"
+    },
+    {
+      "$oid": "64d91fc4fb275a05fc1ffbb7"
+    },
+    {
+      "$oid": "64d932a8fb275a05fc1ffc48"
+    },
+    {
+      "$oid": "64d932b3fb275a05fc1ffc49"
+    }
+  ],
+  "operations": [
+    {
+      "$oid": "64d2a37bbdaa7764aa12b117"
+    },
+    {
+      "$oid": "64d9200cfb275a05fc1ffbba"
+    },
+    {
+      "$oid": "64d92034fb275a05fc1ffbbb"
+    },
+    {
+      "$oid": "64d9205efb275a05fc1ffbbc"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d91dd4fb275a05fc1ffba8"
+  },
+  "name": "Pepperoni",
+  "ingredients": [
+    {
+      "$oid": "64d2a367bdaa7764aa12b110"
+    },
+    {
+      "$oid": "64d91f49fb275a05fc1ffbaf"
+    },
+    {
+      "$oid": "64d91fc4fb275a05fc1ffbb7"
+    },
+    {
+      "$oid": "64d932a8fb275a05fc1ffc48"
+    }
+  ],
+  "operations": [
+    {
+      "$oid": "64d2a37bbdaa7764aa12b117"
+    },
+    {
+      "$oid": "64d92034fb275a05fc1ffbbb"
+    },
+    {
+      "$oid": "64d9205efb275a05fc1ffbbc"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d91e00fb275a05fc1ffba9"
+  },
+  "name": "Margherita",
+  "ingredients": [
+    {
+      "$oid": "64d2a367bdaa7764aa12b110"
+    },
+    {
+      "$oid": "64d932a8fb275a05fc1ffc48"
+    }
+  ],
+  "operations": [
+    {
+      "$oid": "64d2a37bbdaa7764aa12b117"
+    },
+    {
+      "$oid": "64d9200cfb275a05fc1ffbba"
+    },
+    {
+      "$oid": "64d92034fb275a05fc1ffbbb"
+    },
+    {
+      "$oid": "64d9205efb275a05fc1ffbbc"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d91e1efb275a05fc1ffbaa"
+  },
+  "name": "Farmerska",
+  "ingredients": [
+    {
+      "$oid": "64d2a367bdaa7764aa12b110"
+    },
+    {
+      "$oid": "64d67a68fc219cf0c5650d84"
+    },
+    {
+      "$oid": "64d91f49fb275a05fc1ffbaf"
+    },
+    {
+      "$oid": "64d91f5cfb275a05fc1ffbb2"
+    },
+    {
+      "$oid": "64d91f70fb275a05fc1ffbb3"
+    },
+    {
+      "$oid": "64d91f76fb275a05fc1ffbb4"
+    },
+    {
+      "$oid": "64d91fc4fb275a05fc1ffbb7"
+    },
+    {
+      "$oid": "64d932a8fb275a05fc1ffc48"
+    },
+    {
+      "$oid": "64d932b3fb275a05fc1ffc49"
+    }
+  ],
+  "operations": [
+    {
+      "$oid": "64d2a37bbdaa7764aa12b117"
+    },
+    {
+      "$oid": "64d92034fb275a05fc1ffbbb"
+    },
+    {
+      "$oid": "64d9205efb275a05fc1ffbbc"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d91e94fb275a05fc1ffbab"
+  },
+  "name": "Capriciosa",
+  "ingredients": [
+    {
+      "$oid": "64d2a367bdaa7764aa12b110"
+    },
+    {
+      "$oid": "64d91f49fb275a05fc1ffbaf"
+    },
+    {
+      "$oid": "64d91f70fb275a05fc1ffbb3"
+    },
+    {
+      "$oid": "64d91f76fb275a05fc1ffbb4"
+    },
+    {
+      "$oid": "64d932a8fb275a05fc1ffc48"
+    }
+  ],
+  "operations": [
+    {
+      "$oid": "64d2a37bbdaa7764aa12b117"
+    },
+    {
+      "$oid": "64d9200cfb275a05fc1ffbba"
+    },
+    {
+      "$oid": "64d92034fb275a05fc1ffbbb"
+    },
+    {
+      "$oid": "64d9205efb275a05fc1ffbbc"
+    }
+  ],
+  "__v": 0
+}]

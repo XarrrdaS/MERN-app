@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "64d91f49fb275a05fc1ffbaf"
+  },
+  "name": "Salami",
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91dd4fb275a05fc1ffba8"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    },
+    {
+      "$oid": "64d91e94fb275a05fc1ffbab"
+    }
+  ],
+  "__v": 0,
+  "operations": {
+    "$oid": "64da0664b952ddc08e0241e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d91f5cfb275a05fc1ffbb2"
+  },
+  "name": "Kiełbasa",
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    }
+  ],
+  "__v": 0,
+  "operations": {
+    "$oid": "64da0664b952ddc08e0241e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d91f70fb275a05fc1ffbb3"
+  },
+  "name": "Papryka",
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    },
+    {
+      "$oid": "64d91e94fb275a05fc1ffbab"
+    }
+  ],
+  "__v": 0,
+  "operations": {
+    "$oid": "64da0664b952ddc08e0241e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d91f76fb275a05fc1ffbb4"
+  },
+  "name": "Cebula",
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    },
+    {
+      "$oid": "64d91e94fb275a05fc1ffbab"
+    }
+  ],
+  "__v": 0,
+  "operations": {
+    "$oid": "64da0664b952ddc08e0241e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d91fc4fb275a05fc1ffbb7"
+  },
+  "name": "Pieczarki",
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91dd4fb275a05fc1ffba8"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    }
+  ],
+  "__v": 0,
+  "operations": {
+    "$oid": "64da0685b952ddc08e0241e8"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d932a8fb275a05fc1ffc48"
+  },
+  "name": "Ser",
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91dd4fb275a05fc1ffba8"
+    },
+    {
+      "$oid": "64d91e00fb275a05fc1ffba9"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    },
+    {
+      "$oid": "64d91e94fb275a05fc1ffbab"
+    }
+  ],
+  "__v": 0,
+  "operations": {
+    "$oid": "64da06b8b952ddc08e0241f0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d932b3fb275a05fc1ffc49"
+  },
+  "name": "Pomidory",
+  "pizzas": [
+    {
+      "$oid": "64d384671eedc2a522ffccba"
+    },
+    {
+      "$oid": "64d91e1efb275a05fc1ffbaa"
+    }
+  ],
+  "__v": 0,
+  "operations": {
+    "$oid": "64da0664b952ddc08e0241e5"
+  }
+}]
