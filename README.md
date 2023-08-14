@@ -1,4 +1,4 @@
-# My own App using MongoDB, Express.js, React.js, Node.js
+# My own App using MongoDB, Express.js, React.js and Node.js
 To make the application work correctly, install 'node_modules' via `npm install` first.<br>
 Then, start the express.js server `node express.js` and run the react app `npm start`.<br>
 The application consists of three tabs: Pizza list, Ingredients list and operations list. <br>
