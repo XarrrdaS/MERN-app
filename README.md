@@ -9,5 +9,3 @@ Additionally, I added a `database structure` folder consisting of JSON files fro
 This is how the tabs looks like.<br><br>
 ![Alt text](/screenshots/screenshot2.png?raw=true)
 Here you can see the references between the data. Each tab contains references to data, depending on the tab and item selected.
-
-<sub>MADE WITH HEARTH 🖤</sub>
